@@ -32,18 +32,18 @@ Designed the miniCrm web app using:
     
     
    - Add Contact.<br><br><br>
-    ![index](https://github.com/pradyneel/MiniCRM/blob/main/images/addcontact.png)
+    ![index](https://github.com/umeshkaushik-21122000/minicrm/blob/main/images/addcontact.png)
     <br>
     
    - Message.<br><br><br>
-    ![index](https://github.com/pradyneel/MiniCRM/blob/main/images/mail.png)
+    ![index](https://github.com/umeshkaushik-21122000/minicrm/blob/main/images/mail.png)
     <br>
     
    - Task.<br><br><br>
-    ![index](https://github.com/pradyneel/MiniCRM/blob/main/images/task.png)
+    ![index](https://github.com/umeshkaushik-21122000/minicrm/blob/main/images/task.png)
     <br>
     
    - AddTask.<br><br><br>
-    [index](https://github.com/pradyneel/MiniCRM/blob/main/images/addtask.png)
+    [index](https://github.com/umeshkaushik-21122000/minicrm/blob/main/images/addtask.png)
     <br> 
     
