@@ -11,7 +11,7 @@ Designed the miniCrm web app using:
 - Gmail api
 - SQL
 
-<!-- ## Screenshots
+ ## Screenshots
   - SignUp.<br><br><br>
     ![index](https://github.com/umeshkaushik-21122000/minicrm/blob/main/images/signup.png)
     <br>
@@ -44,6 +44,6 @@ Designed the miniCrm web app using:
     <br>
     
    - AddTask.<br><br><br>
-    ![index](https://github.com/pradyneel/MiniCRM/blob/main/images/addtask.png)
-    <br> -->
+    [index](https://github.com/pradyneel/MiniCRM/blob/main/images/addtask.png)
+    <br> 
     
